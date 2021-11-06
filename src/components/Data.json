@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "GREEN PARK HOTEL",
+      "price": 475,
+      "description":"Kongre merkezi, 5 restoran, yüzme havuzu, gece kulübü ve spa içeren modern tesis.",
+      "star": 3,
+      "location": "Kaynarca, Ankara Cd No:204, 34890 Pendik/İstanbul",
+      "imageUrl": "https://pix10.agoda.net/hotelImages/226726/-1/d6e7157e89cdd7ac090389f77892ab0d.jpg?ca=7&ce=1&s=1024x768"
+    },
+    {
+      "id": 2,
+      "name": "MIRACLE RESORT HOTEL",
+      "price": 1559,
+      "description":"Coşku ve dinlenceyi beraber tatmak için tüm dünya insanlarını Akdeniz’in muhteşem renkleri ile buluşturuyoruz.",
+      "star": 5,
+      "location": "Güzeloba Mah. Yaşar Sobutay Bulvarı No: 34, Antalya 07230 Türkiye",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/12/08/86/miracle-resort-hotel.jpg?w=900&h=-1&s=1"
+    },
+    {
+      "id": 3,
+      "name": "S WHITE HOTEL",
+      "price": 799,
+      "description": "Şık ve sade tasarlanan ve deniz manzarasına sahip olan farklı kategorilerdeki odalarımızda unutulmaz anlar yaşayacaksınız.",
+      "star": 4,
+      "location": "Kaynarca, Ankara Cd No:204, 34890 Pendik/İstanbul",
+      "imageUrl": "https://img.otelz.com/s3/turkiye/antalya/konyaalti/s-white-hotel_5917f23e.jpg"
+    },
+    {
+      "id": 4,
+      "name": "TITANIC MARDAN PALACE",
+      "price": 1999,
+      "description":"Diyarında gününüze denizin mavi sularında ve doğanın yeşiliyle baş başa kalın.",
+      "star": 5,
+      "location": "Kundu mevkiindeki tesis; Antalya Havalimanı'na 15 km ve Antalya şehir merkezine 25 km mesafede.",
+      "imageUrl": "https://tatilsepeti.cubecdn.net/Files/Images/Tesis/02320/1050X700/tsr02320637016322388210594.jpg"
+    }
+  ]
+}
